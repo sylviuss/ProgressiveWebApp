@@ -1,0 +1,16 @@
+{
+  "name": "pwa2020",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-tools": "^8.6.0",
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
